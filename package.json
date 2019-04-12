@@ -1,0 +1,16 @@
+{
+  "name": "internship_assignment",
+  "version": "1.0.0",
+  "description": "this is an assignment to be done for internship and has an api for adding comments and showing the list of songs. Based on mongoose express and nodeJS with mongoDB database ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashant",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1"
+  }
+}
